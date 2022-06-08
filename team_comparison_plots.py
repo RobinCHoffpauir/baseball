@@ -27,7 +27,7 @@ red_sox = pyb.schedule_and_record(year, 'BOS')
 d_backs = pyb.schedule_and_record(year,'ARI')
 
 
-#%%
+
 
 
 # Gets wins-to-date, losses-to-date, and win_percent-to-date for each team
